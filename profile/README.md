@@ -1,4 +1,4 @@
-# 🌞 ID Energy – Sistema de Gestão de Energia Fotovoltaica
+# 🌞 ID Energy – Sistema de Gestão
 
 Este é um sistema web desenvolvido para otimizar a gestão de dados de faturas de energia elétrica e substituir o uso de planilhas.  
 A plataforma permite **cadastrar clientes, processar dados de consumo e geração, gerenciar créditos e tarifas**, além de gerar **relatórios e dashboards visuais** para tomada de decisão.
