@@ -3,7 +3,7 @@
 Este é um sistema web desenvolvido para otimizar a gestão de dados de faturas de energia elétrica e substituir o uso de planilhas.  
 A plataforma permite **cadastrar clientes, processar dados de consumo e geração, gerenciar créditos e tarifas**, além de gerar **relatórios e dashboards visuais** para tomada de decisão.
 
----
+
 
 ## 🚀 Objetivo do Projeto
 Atualmente, a gestão é feita com planilhas extensas e suscetíveis a erros.  
@@ -15,14 +15,14 @@ Com este sistema buscamos:
 - 🔒 Oferecer controle de acessos por tipo de usuário.  
 - ☀️ Apoiar clientes e equipe ID Energy no acompanhamento da geração e consumo de energia.  
 
----
+
 
 ## 🛠️ Tecnologias Utilizadas
 - **Frontend** → React + Vite + CSS  
 - **Backend** → Node.js + Prisma  
 - **Banco de Dados** → PostgreSQL  
 
----
+
 
 ## 📂 Estrutura do Sistema
 Módulos principais:  
@@ -32,13 +32,13 @@ Módulos principais:
 - 💡 **Faturas**: registros mensais detalhados.  
 - 🔐 **Gestão de Acessos**: permissões para administradores e clientes.  
 
----
+
 
 ## 👩‍💻 Público-Alvo
 - **Equipe da ID Energy** → operação, consultoria e manutenção.  
 - **Clientes** → acompanhamento do desempenho energético.  
 
----
+
 
 ## 📌 Status do Projeto
 
@@ -87,7 +87,7 @@ Módulos principais:
 - [ ] Preparação para deploy (Docker)
 - [ ] CI/CD (GitHub Actions)
 
----
+
 
 ## 📄 Licença
 Este projeto é de uso **interno** da **ID Energy br**.
